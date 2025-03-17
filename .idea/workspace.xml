@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="190d456b-36f1-440d-ab60-c1fe30743c0e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tnv6pRsSsfg5071LGh8KsTdsvQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/geeks/mon_2/Portfolio",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\geeks\mon_2\Portfolio-lesson\styles" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="190d456b-36f1-440d-ab60-c1fe30743c0e" name="Changes" comment="" />
+      <created>1741000480395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741000480395</updated>
+      <workItem from="1741000481481" duration="4473000" />
+      <workItem from="1741083917712" duration="553000" />
+      <workItem from="1741085910763" duration="11406000" />
+      <workItem from="1741259378419" duration="1310000" />
+      <workItem from="1741283605275" duration="45000" />
+      <workItem from="1741283662841" duration="31000" />
+      <workItem from="1741284345177" duration="748000" />
+      <workItem from="1741520248367" duration="18893000" />
+      <workItem from="1741542334452" duration="5000" />
+      <workItem from="1741542427720" duration="707000" />
+      <workItem from="1741604337661" duration="6878000" />
+      <workItem from="1741691025645" duration="22000" />
+      <workItem from="1741703980715" duration="13075000" />
+      <workItem from="1741863576950" duration="4454000" />
+      <workItem from="1741868359796" duration="23000" />
+      <workItem from="1741868894458" duration="1468000" />
+      <workItem from="1741974939122" duration="2771000" />
+      <workItem from="1742119864866" duration="23000" />
+      <workItem from="1742144113039" duration="10659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
