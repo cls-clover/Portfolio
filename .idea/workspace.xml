@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="190d456b-36f1-440d-ab60-c1fe30743c0e" name="Changes" comment="">
+    <list default="true" id="190d456b-36f1-440d-ab60-c1fe30743c0e" name="Changes" comment="social-icons gap">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
     </list>
@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "cls-clover"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/cls-clover/lesson.git",
+    "accountId": "b3c74f87-c9d5-4ba9-84b3-3be6d6a43cdc"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -88,11 +100,24 @@
       <workItem from="1742144113039" duration="10659000" />
       <workItem from="1742298232690" duration="3737000" />
       <workItem from="1742316600773" duration="8000" />
-      <workItem from="1742394165219" duration="433000" />
+      <workItem from="1742394165219" duration="1829000" />
     </task>
+    <task id="LOCAL-00001" summary="social-icons gap">
+      <option name="closed" value="true" />
+      <created>1742394765215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742394765215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="social-icons gap" />
+    <option name="LAST_COMMIT_MESSAGE" value="social-icons gap" />
   </component>
 </project>
