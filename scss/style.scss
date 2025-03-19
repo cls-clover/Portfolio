@@ -526,9 +526,9 @@ section:nth-child(6) {
                     width: 100%;
                 }
 
-                .hero-links {
-                    @include mixin.social-icons($gap: 24px);
-                }
+            }
+            .hero-links {
+                @include mixin.social-icons($gap: 24px);
             }
         }
     }

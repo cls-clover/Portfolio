@@ -758,7 +758,7 @@ section:nth-child(6) {
     width: 100%;
   }
 }
-.call-me form .form-bottom .submit-btn .hero-links {
+.call-me form .form-bottom .hero-links {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
